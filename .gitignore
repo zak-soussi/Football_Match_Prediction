@@ -1,8 +1,5 @@
 .git
 .idea
-<<<<<<< HEAD
-=======
 /data/
 global_concatenated.csv
 main_data.csv
->>>>>>> 4ed33ff17f70b3f81247685a62eb9b9d29fddfee
