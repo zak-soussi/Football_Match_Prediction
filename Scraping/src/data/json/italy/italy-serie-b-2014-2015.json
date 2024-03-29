@@ -29546,5 +29546,3165 @@
         "awayValue": "5"
       }
     ]
+  },
+  "8G2yYDF0": {
+    "date": "22.09.2014 20:30",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "22",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "WGCO5eW7": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Livorno",
+      "image": "https://static.flashscore.com/res/image/data/CUHg6YzS-0lwy4Ij1.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "60%",
+        "awayValue": "40%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "23",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "YLj7Uv98": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Bologna",
+      "image": "https://static.flashscore.com/res/image/data/j3Tyh1GG-McvX4bye.png"
+    },
+    "away": {
+      "name": "Crotone",
+      "image": "https://static.flashscore.com/res/image/data/vTzgfkZA-Ma1dQfp5.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "40%",
+        "awayValue": "60%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "10",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "26",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "W69ATbOE": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "26",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "10",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "16",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "19",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "4K7IRxgR": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Catania",
+      "image": "https://static.flashscore.com/res/image/data/SK0fVTjl-hnnCjjcF.png"
+    },
+    "away": {
+      "name": "Modena",
+      "image": "https://static.flashscore.com/res/image/data/fk5PBih5-U9Wa6iJt.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "35",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "6"
+      }
+    ]
+  },
+  "pEkoNd1r": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "26",
+        "awayValue": "31"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "Egs2JE07": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Lanciano",
+      "image": "https://static.flashscore.com/res/image/data/0QwJ6zGG-0End9Hsj.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "5",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "28",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "O4lkMGGl": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "17",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "xKl5NZI0": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "60%",
+        "awayValue": "40%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "26",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "IRmgLzWf": {
+    "date": "20.09.2014 15:00",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Varese",
+      "image": "https://static.flashscore.com/res/image/data/Wzm2PIxS-hjEdbqyp.png"
+    },
+    "result": {
+      "home": "4",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "63%",
+        "awayValue": "37%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "19",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "11",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "11",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "19",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "WUicKfo1": {
+    "date": "19.09.2014 21:00",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "24",
+        "awayValue": "40"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "QT8ESIwL": {
+    "date": "19.09.2014 19:00",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "18",
+        "awayValue": "29"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "7",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "IofWSRX3": {
+    "date": "15.09.2014 20:30",
+    "home": {
+      "name": "Livorno",
+      "image": "https://static.flashscore.com/res/image/data/CUHg6YzS-0lwy4Ij1.png"
+    },
+    "away": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "24",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "22",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "bTk1OF3f": {
+    "date": "14.09.2014 18:00",
+    "home": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "28",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "6"
+      }
+    ]
+  },
+  "ptjm64Qj": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "28",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "bqvVUm3i": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Crotone",
+      "image": "https://static.flashscore.com/res/image/data/vTzgfkZA-Ma1dQfp5.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "4",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "31",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "hQDK6yH1": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "45%",
+        "awayValue": "55%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "27",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "9",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "xzwZT7Ic": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "12",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "27"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "43",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "dxgzSomA": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Modena",
+      "image": "https://static.flashscore.com/res/image/data/fk5PBih5-U9Wa6iJt.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "59%",
+        "awayValue": "41%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "12",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "16",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "jahvR52G": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Catania",
+      "image": "https://static.flashscore.com/res/image/data/SK0fVTjl-hnnCjjcF.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "20",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "p0AC8cnk": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "10",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "27",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "21",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "Oj9G7H1e": {
+    "date": "13.09.2014 15:00",
+    "home": {
+      "name": "Varese",
+      "image": "https://static.flashscore.com/res/image/data/Wzm2PIxS-hjEdbqyp.png"
+    },
+    "away": {
+      "name": "Lanciano",
+      "image": "https://static.flashscore.com/res/image/data/0QwJ6zGG-0End9Hsj.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "30",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "2yL79wXr": {
+    "date": "12.09.2014 20:30",
+    "home": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "away": {
+      "name": "Bologna",
+      "image": "https://static.flashscore.com/res/image/data/j3Tyh1GG-McvX4bye.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "30",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "j3ngQyZs": {
+    "date": "10.09.2014 20:30",
+    "home": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "away": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "2",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "26",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "10",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "zBW4gRto": {
+    "date": "07.09.2014 20:30",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "22",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "IV58DnYG": {
+    "date": "07.09.2014 18:00",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Catania",
+      "image": "https://static.flashscore.com/res/image/data/SK0fVTjl-hnnCjjcF.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "13",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "ptEeGllb": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Varese",
+      "image": "https://static.flashscore.com/res/image/data/Wzm2PIxS-hjEdbqyp.png"
+    },
+    "result": {
+      "home": "4",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "25",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "CSFmIAJo": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Bologna",
+      "image": "https://static.flashscore.com/res/image/data/j3Tyh1GG-McvX4bye.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "17",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "16",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "dGHaF834": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "19",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "Wxnq7pBp": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Lanciano",
+      "image": "https://static.flashscore.com/res/image/data/0QwJ6zGG-0End9Hsj.png"
+    },
+    "away": {
+      "name": "Modena",
+      "image": "https://static.flashscore.com/res/image/data/fk5PBih5-U9Wa6iJt.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "28",
+        "awayValue": "28"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "n5ACC6mN": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "57%",
+        "awayValue": "43%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "27",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "24",
+        "awayValue": "27"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "8"
+      }
+    ]
+  },
+  "Qe9GBQ2T": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "31",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "UgocPell": {
+    "date": "07.09.2014 15:00",
+    "home": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "away": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "29",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "15",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "31",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "jJEiHUYi": {
+    "date": "06.09.2014 20:30",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Livorno",
+      "image": "https://static.flashscore.com/res/image/data/CUHg6YzS-0lwy4Ij1.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "18",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "vu74ESIA": {
+    "date": "06.09.2014 18:00",
+    "home": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "away": {
+      "name": "Crotone",
+      "image": "https://static.flashscore.com/res/image/data/vTzgfkZA-Ma1dQfp5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "15",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "4MhM1kZ4": {
+    "date": "01.09.2014 20:30",
+    "home": {
+      "name": "Modena",
+      "image": "https://static.flashscore.com/res/image/data/fk5PBih5-U9Wa6iJt.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "56%",
+        "awayValue": "44%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "24",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "25",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "b7A0pl4U": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "67%",
+        "awayValue": "33%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "16",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "zTo65XZu": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Catania",
+      "image": "https://static.flashscore.com/res/image/data/SK0fVTjl-hnnCjjcF.png"
+    },
+    "away": {
+      "name": "Lanciano",
+      "image": "https://static.flashscore.com/res/image/data/0QwJ6zGG-0End9Hsj.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "56%",
+        "awayValue": "44%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "20",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "13",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "22",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "6",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "lWkA4ikn": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Crotone",
+      "image": "https://static.flashscore.com/res/image/data/vTzgfkZA-Ma1dQfp5.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "26",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "Y1pwb7YT": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "4",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "26",
+        "awayValue": "33"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "WfuF3B4h": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "19",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "38",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "AovJ2VJb": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Livorno",
+      "image": "https://static.flashscore.com/res/image/data/CUHg6YzS-0lwy4Ij1.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "57%",
+        "awayValue": "43%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "10",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "27",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "QysVaT3H": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "away": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "25",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "vuoZbmJN": {
+    "date": "30.08.2014 20:30",
+    "home": {
+      "name": "Varese",
+      "image": "https://static.flashscore.com/res/image/data/Wzm2PIxS-hjEdbqyp.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "34",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "rDiQ09lB": {
+    "date": "29.08.2014 20:30",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Bologna",
+      "image": "https://static.flashscore.com/res/image/data/j3Tyh1GG-McvX4bye.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "59%",
+        "awayValue": "41%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "21",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      }
+    ]
   }
 }
