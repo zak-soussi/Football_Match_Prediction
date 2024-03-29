@@ -28856,5 +28856,3314 @@
         "awayValue": "3"
       }
     ]
+  },
+  "O2BOcYJ1": {
+    "date": "20.09.2016 20:30",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "22",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "9",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "2gASdhZ7": {
+    "date": "20.09.2016 20:30",
+    "home": {
+      "name": "Spal",
+      "image": "https://static.flashscore.com/res/image/data/21y70myS-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Verona",
+      "image": "https://static.flashscore.com/res/image/data/vgsKSajl-jLhuIlpK.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "41%",
+        "awayValue": "59%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "32",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "29"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "GdbALyC8": {
+    "date": "20.09.2016 20:30",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "Ua2EKeRE": {
+    "date": "20.09.2016 20:30",
+    "home": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "59%",
+        "awayValue": "41%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "SzIFafkk": {
+    "date": "19.09.2016 20:30",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "17",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "IRy6gJSF": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "juzEiccS": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "away": {
+      "name": "Benevento",
+      "image": "https://static.flashscore.com/res/image/data/rm9NwUZA-2DHMwf7a.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "10",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "f9vZnH5q": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "5"
+      }
+    ]
+  },
+  "YawwnyLk": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Pisa",
+      "image": "https://static.flashscore.com/res/image/data/CzC5XtGG-jVNyzGJh.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "tQtopFk2": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Spal",
+      "image": "https://static.flashscore.com/res/image/data/21y70myS-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "56%",
+        "awayValue": "44%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "11",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "rVKT8bS2": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "MLJX7Is9": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "away": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "ClyAhwrM": {
+    "date": "17.09.2016 15:00",
+    "home": {
+      "name": "Verona",
+      "image": "https://static.flashscore.com/res/image/data/vgsKSajl-jLhuIlpK.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "10",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "4OX1faD9": {
+    "date": "16.09.2016 21:00",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "40%",
+        "awayValue": "60%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "27"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "27",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "SMxsoezd": {
+    "date": "16.09.2016 21:00",
+    "home": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "away": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "8",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "Marceub3": {
+    "date": "16.09.2016 19:00",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "6"
+      }
+    ]
+  },
+  "fgjBXy6d": {
+    "date": "12.09.2016 20:30",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Pisa",
+      "image": "https://static.flashscore.com/res/image/data/CzC5XtGG-jVNyzGJh.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "43%",
+        "awayValue": "57%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "22",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "G2i7YHjj": {
+    "date": "11.09.2016 17:30",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "26",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "25"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "nPvAdUxt": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "away": {
+      "name": "Spal",
+      "image": "https://static.flashscore.com/res/image/data/21y70myS-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "0SrEelhn": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "46%",
+        "awayValue": "54%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "fkrIf87h": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Benevento",
+      "image": "https://static.flashscore.com/res/image/data/rm9NwUZA-2DHMwf7a.png"
+    },
+    "away": {
+      "name": "Verona",
+      "image": "https://static.flashscore.com/res/image/data/vgsKSajl-jLhuIlpK.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "YusMgSMb": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "42%",
+        "awayValue": "58%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "U7zVi6iB": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "23",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "r9qgdLrc": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "57%",
+        "awayValue": "43%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "23",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "OUZYjQ6H": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "5"
+      }
+    ]
+  },
+  "Yw22Zcyp": {
+    "date": "10.09.2016 15:00",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "5",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "18",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "jHyRhnx5": {
+    "date": "09.09.2016 20:30",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "11",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "18",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "EHoEQThC": {
+    "date": "07.09.2016 20:30",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Pisa",
+      "image": "https://static.flashscore.com/res/image/data/CzC5XtGG-jVNyzGJh.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "OSEWrB8t": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Benevento",
+      "image": "https://static.flashscore.com/res/image/data/rm9NwUZA-2DHMwf7a.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "Kf8uskwg": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "31",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "28"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "SKBmuT75": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "Pisa",
+      "image": "https://static.flashscore.com/res/image/data/CzC5XtGG-jVNyzGJh.png"
+    },
+    "away": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "36%",
+        "awayValue": "64%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "Aq1hvmNB": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "away": {
+      "name": "Verona",
+      "image": "https://static.flashscore.com/res/image/data/vgsKSajl-jLhuIlpK.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "42%",
+        "awayValue": "58%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "9",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "lz0dw7xI": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "Spal",
+      "image": "https://static.flashscore.com/res/image/data/21y70myS-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "61%",
+        "awayValue": "39%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "22",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "12",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "10",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "0"
+      }
+    ]
+  },
+  "rBEaxRiO": {
+    "date": "04.09.2016 20:30",
+    "home": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "M1D3yo7U": {
+    "date": "04.09.2016 17:30",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "t49yrVNn": {
+    "date": "03.09.2016 20:30",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "22",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "EH7qt9ha": {
+    "date": "03.09.2016 20:30",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "23",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "MJS4mi0P": {
+    "date": "03.09.2016 18:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "Eg3RZXVP": {
+    "date": "29.08.2016 20:30",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "S0q2TV8g": {
+    "date": "28.08.2016 17:30",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Trapani",
+      "image": "https://static.flashscore.com/res/image/data/GM1gO4h5-drmpIYia.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "dKarDAOC": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "46%",
+        "awayValue": "54%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "6",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "5"
+      }
+    ]
+  },
+  "zBbnCUwJ": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "45%",
+        "awayValue": "55%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "21",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "z34NzEGJ": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Benevento",
+      "image": "https://static.flashscore.com/res/image/data/rm9NwUZA-2DHMwf7a.png"
+    },
+    "away": {
+      "name": "Spal",
+      "image": "https://static.flashscore.com/res/image/data/21y70myS-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "18",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "WYkgVivs": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "2"
+      }
+    ]
+  },
+  "dtyJPm8I": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "L.R. Vicenza",
+      "image": "https://static.flashscore.com/res/image/data/ERwC5wFa-005OhYls.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "60%",
+        "awayValue": "40%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "24",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "3"
+      }
+    ]
+  },
+  "6ir6SkOa": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      }
+    ]
+  },
+  "pxfcUBgm": {
+    "date": "27.08.2016 20:30",
+    "home": {
+      "name": "Verona",
+      "image": "https://static.flashscore.com/res/image/data/vgsKSajl-jLhuIlpK.png"
+    },
+    "away": {
+      "name": "Latina",
+      "image": "https://static.flashscore.com/res/image/data/WMOEXWg5-ObAaVmfS.png"
+    },
+    "result": {
+      "home": "4",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      }
+    ]
+  },
+  "zRnAR9w6": {
+    "date": "26.08.2016 20:30",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      }
+    ]
   }
 }

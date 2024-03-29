@@ -33055,5 +33055,5472 @@
         "awayValue": "49"
       }
     ]
+  },
+  "Ewk5uQBg": {
+    "date": "30.09.2017 15:00",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "result": {
+      "home": "5",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "62%",
+        "awayValue": "38%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "10",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "11",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "111",
+        "awayValue": "98"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "75",
+        "awayValue": "61"
+      }
+    ]
+  },
+  "hUm9vpRa": {
+    "date": "30.09.2017 15:00",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "46%",
+        "awayValue": "54%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "77",
+        "awayValue": "112"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "67",
+        "awayValue": "81"
+      }
+    ]
+  },
+  "zgwEw4t6": {
+    "date": "30.09.2017 15:00",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "134",
+        "awayValue": "101"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "115",
+        "awayValue": "53"
+      }
+    ]
+  },
+  "p4p1t6dm": {
+    "date": "29.09.2017 20:30",
+    "home": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "118",
+        "awayValue": "101"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "51",
+        "awayValue": "51"
+      }
+    ]
+  },
+  "Sl3eZlkK": {
+    "date": "25.09.2017 20:30",
+    "home": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "147",
+        "awayValue": "137"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "97",
+        "awayValue": "94"
+      }
+    ]
+  },
+  "tdN0D7S0": {
+    "date": "24.09.2017 17:30",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "10",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "104",
+        "awayValue": "125"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "63",
+        "awayValue": "55"
+      }
+    ]
+  },
+  "pUTiFTcl": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "46%",
+        "awayValue": "54%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "16",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "8",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "7",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "96",
+        "awayValue": "130"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "33",
+        "awayValue": "62"
+      }
+    ]
+  },
+  "25OdEmDf": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "166",
+        "awayValue": "110"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "120",
+        "awayValue": "76"
+      }
+    ]
+  },
+  "zJM4CRs7": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "105",
+        "awayValue": "105"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "82",
+        "awayValue": "81"
+      }
+    ]
+  },
+  "ngQ8BocD": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "60%",
+        "awayValue": "40%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "23",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "104",
+        "awayValue": "92"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "81",
+        "awayValue": "48"
+      }
+    ]
+  },
+  "tdqWSnSm": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "24",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "10",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "124",
+        "awayValue": "112"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "83",
+        "awayValue": "90"
+      }
+    ]
+  },
+  "lb4izVZD": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "28",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "21",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "130",
+        "awayValue": "108"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "91",
+        "awayValue": "56"
+      }
+    ]
+  },
+  "dO7aY84Q": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "8",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "87",
+        "awayValue": "116"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "57",
+        "awayValue": "108"
+      }
+    ]
+  },
+  "bXgRTSCs": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "45%",
+        "awayValue": "55%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "82",
+        "awayValue": "117"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "47",
+        "awayValue": "81"
+      }
+    ]
+  },
+  "famzS6sf": {
+    "date": "23.09.2017 15:00",
+    "home": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "away": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "6",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "108",
+        "awayValue": "114"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "83",
+        "awayValue": "56"
+      }
+    ]
+  },
+  "QJDI0Ure": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "43%",
+        "awayValue": "57%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "82",
+        "awayValue": "106"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "69",
+        "awayValue": "68"
+      }
+    ]
+  },
+  "tUnsKIqG": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "115",
+        "awayValue": "135"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "47",
+        "awayValue": "39"
+      }
+    ]
+  },
+  "CG9E1ATl": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "54%",
+        "awayValue": "46%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "97",
+        "awayValue": "88"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "85",
+        "awayValue": "76"
+      }
+    ]
+  },
+  "8r3Nalb1": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "result": {
+      "home": "4",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "22",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "11",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "21",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "113",
+        "awayValue": "118"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "82",
+        "awayValue": "58"
+      }
+    ]
+  },
+  "nZ1Rb8D7": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "126",
+        "awayValue": "84"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "86",
+        "awayValue": "72"
+      }
+    ]
+  },
+  "Euj9Nij8": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "away": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "102",
+        "awayValue": "88"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "75",
+        "awayValue": "50"
+      }
+    ]
+  },
+  "hWlDMB5E": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "9",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "22",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "29",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "24",
+        "awayValue": "10"
+      }
+    ]
+  },
+  "zevILVKK": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "110",
+        "awayValue": "103"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "94",
+        "awayValue": "69"
+      }
+    ]
+  },
+  "lbrMKkzR": {
+    "date": "19.09.2017 20:30",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "24",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "19",
+        "awayValue": "17"
+      }
+    ]
+  },
+  "IgAA2jEr": {
+    "date": "18.09.2017 20:30",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "6",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "11",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "156",
+        "awayValue": "117"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "113",
+        "awayValue": "83"
+      }
+    ]
+  },
+  "jREe8Lp4": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "21",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "9",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "126",
+        "awayValue": "96"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "83",
+        "awayValue": "61"
+      }
+    ]
+  },
+  "biI36aFG": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "71",
+        "awayValue": "98"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "27",
+        "awayValue": "63"
+      }
+    ]
+  },
+  "tG785JUM": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "away": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "105",
+        "awayValue": "106"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "88",
+        "awayValue": "78"
+      }
+    ]
+  },
+  "p2gYLvF3": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "7",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "98",
+        "awayValue": "120"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "60",
+        "awayValue": "107"
+      }
+    ]
+  },
+  "K66C4wpT": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "away": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "110",
+        "awayValue": "89"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "60",
+        "awayValue": "70"
+      }
+    ]
+  },
+  "Cbbv0chp": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "102",
+        "awayValue": "100"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "59",
+        "awayValue": "66"
+      }
+    ]
+  },
+  "jkcraH7j": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "7",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "77",
+        "awayValue": "98"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "44",
+        "awayValue": "57"
+      }
+    ]
+  },
+  "hfyRN0pi": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "84",
+        "awayValue": "86"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "52",
+        "awayValue": "72"
+      }
+    ]
+  },
+  "jufUMKac": {
+    "date": "16.09.2017 15:00",
+    "home": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "away": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "22",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "98",
+        "awayValue": "103"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "69",
+        "awayValue": "63"
+      }
+    ]
+  },
+  "plEa7u0A": {
+    "date": "15.09.2017 21:00",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "15",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "129",
+        "awayValue": "137"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "89",
+        "awayValue": "85"
+      }
+    ]
+  },
+  "OhhxLbU9": {
+    "date": "15.09.2017 19:00",
+    "home": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "120",
+        "awayValue": "119"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "58",
+        "awayValue": "68"
+      }
+    ]
+  },
+  "tfWXhtoH": {
+    "date": "11.09.2017 20:30",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "56%",
+        "awayValue": "44%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "27"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "141",
+        "awayValue": "125"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "115",
+        "awayValue": "79"
+      }
+    ]
+  },
+  "29KtiKFT": {
+    "date": "10.09.2017 17:30",
+    "home": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "23",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "17",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "124",
+        "awayValue": "127"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "105",
+        "awayValue": "78"
+      }
+    ]
+  },
+  "CKRTgMVA": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "75",
+        "awayValue": "57"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "80",
+        "awayValue": "101"
+      }
+    ]
+  },
+  "vVZGdOoh": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "away": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "109",
+        "awayValue": "91"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "94",
+        "awayValue": "70"
+      }
+    ]
+  },
+  "j5wLer1b": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "result": {
+      "home": "5",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "73",
+        "awayValue": "108"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "59",
+        "awayValue": "80"
+      }
+    ]
+  },
+  "YTSPf2G4": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "63%",
+        "awayValue": "37%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "20",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "14",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "139",
+        "awayValue": "75"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "94",
+        "awayValue": "32"
+      }
+    ]
+  },
+  "KpVyh00N": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "away": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "105",
+        "awayValue": "111"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "63",
+        "awayValue": "57"
+      }
+    ]
+  },
+  "hYajBN0o": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "4",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "132",
+        "awayValue": "110"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "78",
+        "awayValue": "62"
+      }
+    ]
+  },
+  "WObfAsGi": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "96",
+        "awayValue": "103"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "80",
+        "awayValue": "69"
+      }
+    ]
+  },
+  "CzGi91Vc": {
+    "date": "09.09.2017 15:00",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "10",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "81",
+        "awayValue": "103"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "56",
+        "awayValue": "87"
+      }
+    ]
+  },
+  "vVB8nvOp": {
+    "date": "08.09.2017 20:30",
+    "home": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "44%",
+        "awayValue": "56%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "10",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "121",
+        "awayValue": "146"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "88",
+        "awayValue": "100"
+      }
+    ]
+  },
+  "6Hy9bpHu": {
+    "date": "04.09.2017 20:30",
+    "home": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "away": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "3",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "19",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "13",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "147",
+        "awayValue": "143"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "114",
+        "awayValue": "75"
+      }
+    ]
+  },
+  "thPX0ILt": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "away": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "21",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "111",
+        "awayValue": "110"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "35",
+        "awayValue": "51"
+      }
+    ]
+  },
+  "27Dtadjg": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "away": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "55%",
+        "awayValue": "45%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "13",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "111",
+        "awayValue": "107"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "49",
+        "awayValue": "50"
+      }
+    ]
+  },
+  "drSqbG5a": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "48%",
+        "awayValue": "52%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "25",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "94",
+        "awayValue": "119"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "75",
+        "awayValue": "85"
+      }
+    ]
+  },
+  "IcGhdfzC": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "away": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "18",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "136",
+        "awayValue": "93"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "91",
+        "awayValue": "44"
+      }
+    ]
+  },
+  "W0KdeEkI": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "away": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "46%",
+        "awayValue": "54%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "13",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "92",
+        "awayValue": "119"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "53",
+        "awayValue": "77"
+      }
+    ]
+  },
+  "QNJ0fY4O": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "away": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "42%",
+        "awayValue": "58%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "23",
+        "awayValue": "27"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "26",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "100",
+        "awayValue": "96"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "80",
+        "awayValue": "63"
+      }
+    ]
+  },
+  "4EI4ghKU": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "away": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "result": {
+      "home": "4",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "2",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "12",
+        "awayValue": "17"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "93",
+        "awayValue": "100"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "64",
+        "awayValue": "99"
+      }
+    ]
+  },
+  "p8zDc4Wo": {
+    "date": "03.09.2017 20:30",
+    "home": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "away": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "56%",
+        "awayValue": "44%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "9",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "19",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "142",
+        "awayValue": "117"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "116",
+        "awayValue": "69"
+      }
+    ]
+  },
+  "zZQmczL5": {
+    "date": "03.09.2017 17:30",
+    "home": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "away": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "10",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "3",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "6",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "65",
+        "awayValue": "61"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "52",
+        "awayValue": "46"
+      }
+    ]
+  },
+  "OGEx0xym": {
+    "date": "02.09.2017 18:00",
+    "home": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "away": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "97",
+        "awayValue": "114"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "43",
+        "awayValue": "51"
+      }
+    ]
+  },
+  "MkXQ4RME": {
+    "date": "28.08.2017 20:30",
+    "home": {
+      "name": "Bari",
+      "image": "https://static.flashscore.com/res/image/data/rHtI8YGG-dYPMS6QG.png"
+    },
+    "away": {
+      "name": "Cesena",
+      "image": "https://static.flashscore.com/res/image/data/KIjySNxS-YB20ndi2.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "6",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "14",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "8",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "23",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "1",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "165",
+        "awayValue": "145"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "98",
+        "awayValue": "79"
+      }
+    ]
+  },
+  "GAiBqHj6": {
+    "date": "27.08.2017 17:30",
+    "home": {
+      "name": "Pescara",
+      "image": "https://static.flashscore.com/res/image/data/tzyvObHG-0YEZEho5.png"
+    },
+    "away": {
+      "name": "Foggia",
+      "image": "https://static.flashscore.com/res/image/data/4U5g2HzB-v9LWknvd.png"
+    },
+    "result": {
+      "home": "5",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "47%",
+        "awayValue": "53%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "9",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "11",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "10",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "8",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "90",
+        "awayValue": "119"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "57",
+        "awayValue": "91"
+      }
+    ]
+  },
+  "lb0fmais": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "AC Carpi",
+      "image": "https://static.flashscore.com/res/image/data/6sW9rwjl-jkltiv4D.png"
+    },
+    "away": {
+      "name": "Novara",
+      "image": "https://static.flashscore.com/res/image/data/4lxzQRWg-IehoPOFd.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "40%",
+        "awayValue": "60%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "16",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "4",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "20",
+        "awayValue": "16"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "112",
+        "awayValue": "131"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "50",
+        "awayValue": "86"
+      }
+    ]
+  },
+  "raYM5778": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Avellino",
+      "image": "https://static.flashscore.com/res/image/data/jDqtEszB-dp0XifTb.png"
+    },
+    "away": {
+      "name": "Brescia",
+      "image": "https://static.flashscore.com/res/image/data/Op353tf5-QuOACKLH.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "49%",
+        "awayValue": "51%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "8",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "22",
+        "awayValue": "21"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "8",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "16",
+        "awayValue": "20"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "110",
+        "awayValue": "130"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "91",
+        "awayValue": "80"
+      }
+    ]
+  },
+  "SlabnJ6m": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Cittadella",
+      "image": "https://static.flashscore.com/res/image/data/OlVbH3GG-tCW9BFsd.png"
+    },
+    "away": {
+      "name": "Ascoli",
+      "image": "https://static.flashscore.com/res/image/data/EsBr7XCr-CEqXYiD6.png"
+    },
+    "result": {
+      "home": "3",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "51%",
+        "awayValue": "49%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "14",
+        "awayValue": "9"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "7",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "13",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "6",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "9",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "31",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "15",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "100",
+        "awayValue": "85"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "95",
+        "awayValue": "44"
+      }
+    ]
+  },
+  "jTqOtFzP": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Entella",
+      "image": "https://static.flashscore.com/res/image/data/GQ0He2Br-boEYzhiI.png"
+    },
+    "away": {
+      "name": "Perugia",
+      "image": "https://static.flashscore.com/res/image/data/6BkUJqDa-zBy2JPLp.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "5",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "41%",
+        "awayValue": "59%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "7",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "22"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "3",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "21",
+        "awayValue": "10"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "19",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "52",
+        "awayValue": "53"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "44",
+        "awayValue": "39"
+      }
+    ]
+  },
+  "ADl3owMg": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Palermo",
+      "image": "https://static.flashscore.com/res/image/data/hEujOFil-fL3dmxxd.png"
+    },
+    "away": {
+      "name": "Spezia",
+      "image": "https://static.flashscore.com/res/image/data/2yWnWaBr-ncsvOYsi.png"
+    },
+    "result": {
+      "home": "2",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "58%",
+        "awayValue": "42%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "12",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "4",
+        "awayValue": "3"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "8",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "18",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "1",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "27",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "10",
+        "awayValue": "18"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "113",
+        "awayValue": "97"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "69",
+        "awayValue": "63"
+      }
+    ]
+  },
+  "f1jFry6C": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Pro Vercelli",
+      "image": "https://static.flashscore.com/res/image/data/APvp4VxS-2az3TL9A.png"
+    },
+    "away": {
+      "name": "Frosinone",
+      "image": "https://static.flashscore.com/res/image/data/MP0Dgnhl-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "2",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "45%",
+        "awayValue": "55%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "1",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "5",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "20",
+        "awayValue": "23"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "5",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "19",
+        "awayValue": "26"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "18",
+        "awayValue": "19"
+      },
+      {
+        "categoryName": "Red Cards",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "0"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "113",
+        "awayValue": "115"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "74",
+        "awayValue": "84"
+      }
+    ]
+  },
+  "CxoKseLI": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Ternana",
+      "image": "https://static.flashscore.com/res/image/data/OGcEDyjl-pGsfQYt2.png"
+    },
+    "away": {
+      "name": "Empoli",
+      "image": "https://static.flashscore.com/res/image/data/xArvJNCa-KbH8aCLf.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "1",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "52%",
+        "awayValue": "48%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "17",
+        "awayValue": "12"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "11",
+        "awayValue": "8"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "15",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "7",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Throw-ins",
+        "homeValue": "28",
+        "awayValue": "24"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "3",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "11",
+        "awayValue": "13"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "77",
+        "awayValue": "81"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "50",
+        "awayValue": "54"
+      }
+    ]
+  },
+  "4WX55bDP": {
+    "date": "26.08.2017 20:30",
+    "home": {
+      "name": "Venezia",
+      "image": "https://static.flashscore.com/res/image/data/WxiS2Wkl-tGrll1pT.png"
+    },
+    "away": {
+      "name": "Salernitana",
+      "image": "https://static.flashscore.com/res/image/data/K8hPw2h5-dvgFSUQH.png"
+    },
+    "result": {
+      "home": "0",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "50%",
+        "awayValue": "50%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "6",
+        "awayValue": "4"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "4",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "17",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "5",
+        "awayValue": "7"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "9",
+        "awayValue": "15"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "3",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "67",
+        "awayValue": "70"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "36",
+        "awayValue": "46"
+      }
+    ]
+  },
+  "Mmh7pcy0": {
+    "date": "25.08.2017 20:30",
+    "home": {
+      "name": "Parma",
+      "image": "https://static.flashscore.com/res/image/data/YcrE7ae5-fydXzLY6.png"
+    },
+    "away": {
+      "name": "Cremonese",
+      "image": "https://static.flashscore.com/res/image/data/EDUhUrDr-t4GQxEM5.png"
+    },
+    "result": {
+      "home": "1",
+      "away": "0",
+      "status": "FINISHED"
+    },
+    "statistics": [
+      {
+        "categoryName": "Ball Possession",
+        "homeValue": "53%",
+        "awayValue": "47%"
+      },
+      {
+        "categoryName": "Goal Attempts",
+        "homeValue": "11",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Shots on Goal",
+        "homeValue": "2",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Shots off Goal",
+        "homeValue": "9",
+        "awayValue": "5"
+      },
+      {
+        "categoryName": "Free Kicks",
+        "homeValue": "12",
+        "awayValue": "14"
+      },
+      {
+        "categoryName": "Corner Kicks",
+        "homeValue": "4",
+        "awayValue": "6"
+      },
+      {
+        "categoryName": "Offsides",
+        "homeValue": "0",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Goalkeeper Saves",
+        "homeValue": "1",
+        "awayValue": "1"
+      },
+      {
+        "categoryName": "Fouls",
+        "homeValue": "14",
+        "awayValue": "11"
+      },
+      {
+        "categoryName": "Yellow Cards",
+        "homeValue": "2",
+        "awayValue": "2"
+      },
+      {
+        "categoryName": "Attacks",
+        "homeValue": "56",
+        "awayValue": "68"
+      },
+      {
+        "categoryName": "Dangerous Attacks",
+        "homeValue": "28",
+        "awayValue": "31"
+      }
+    ]
   }
 }
