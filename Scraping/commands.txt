@@ -1,10 +1,7 @@
-npm run start country=italy league=serie-b-2014-2015 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2015-2016 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2016-2017 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2017-2018 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2018-2019 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2019-2020 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2020-2021 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2021-2022 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2022-2023 path=./src/data/json/italy headless
-npm run start country=italy league=serie-b-2023-2024 path=./src/data/json/italy headless
+npm run start country=france league=ligue-2-2017-2018 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2018-2019 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2019-2020 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2020-2021 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2021-2022 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2022-2023 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2023-2024 path=./src/data/json/france headless
