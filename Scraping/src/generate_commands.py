@@ -1,9 +1,9 @@
 def generate_commands():
     commands = []
-    for year in range(2014, 2024):
+    for year in range(2017, 2024):
         season = f"{year}-{year+1}"
-        country = "italy"
-        league = f"serie-b-{season.replace('-', '-')}"
+        country = "france"
+        league = f"ligue-2-{season.replace('-', '-')}"
         path = f"./src/data/json/{country}"
         command = f"npm run start country={country} league={league} path={path} headless"
         commands.append(command)
