@@ -1,0 +1,7 @@
+npm run start country=france league=ligue-2-2017-2018 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2018-2019 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2019-2020 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2020-2021 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2021-2022 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2022-2023 path=./src/data/json/france headless
+npm run start country=france league=ligue-2-2023-2024 path=./src/data/json/france headless
