@@ -1,5 +1,5 @@
 .git
 .idea
 /data/
-global_concatenated.csv
-main_data.csv
+/warehouse/
+/catboost_info/
