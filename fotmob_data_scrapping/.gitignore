@@ -1,0 +1,7 @@
+# python gitignore
+
+__pycache__/
+*.pyc
+data/*.csv
+logs/*.log
+.*/*
