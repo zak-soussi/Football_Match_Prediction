@@ -65,4 +65,5 @@ yellow_cards_home
 yellow_cards_away
 red_cards_home
 red_cards_away
-date
+xg_home
+xg_away

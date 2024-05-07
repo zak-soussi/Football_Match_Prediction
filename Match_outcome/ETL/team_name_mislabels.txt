@@ -1,0 +1,9 @@
+Austria_2021_2022.csv : Admira Mödling -> Admira Moedling
+Austria_2020_2021 : Admira Mödling -> Admira Moedling /  SKN St. Pölten -> SKN St. Poelten
+matches_Spain_LaLiga_2020_2021.csv : Atlético Madrid -> Atletico Madrid
+matches_Spain_LaLiga_2021_2022 : Atlético Madrid -> Atletico Madrid
+matches_Spain_LaLiga_2022_2023 : Atlético Madrid -> Atletico Madrid
+matches_Spain_LaLiga_2023_2024 : Atlético Madrid -> Atletico Madrid / Athletic Bilbao -> Athletic Club
+matches_England_League_Two_2023_2024 : Tranmere -> Tranmere Rovers / Doncaster -> Doncaster Rovers
+Den_2022_2023 : Aalborg -> Aalborg BK
+matches_England_Premier_League_2023_2024 : Tottenham -> Tottenham Hotspur 
